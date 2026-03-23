@@ -1,0 +1,13 @@
+.claude/
+data/people_batch*.json
+data/people_delta*.json
+data/people_extras*.json
+data/people_lit*.json
+data/people_nvidia*.json
+data/people_realm*.json
+data/people_rsi*.json
+data/people_spot*.json
+data/people_verifai*.json
+data/people_worldmodels*.json
+data/workshops_tier*.json
+data/photos/
